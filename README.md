@@ -11,5 +11,5 @@ Cyber Security Issues of AI Systems
 * [Seeing is Not Believing: Camouflage Attacks on Image Scaling Algorithms (Paper at USENIX Security 2019)](./papers/USENIX_SEC_2019_See_Is_Not_Believing.pdf)
 
 ## AI Model Security
-* [Checking Defects in Deep Learning AI Models (Talks at PoC 2019)](./slides/2017-PoC-DL-Framework-Vulnerabilities.pdf)
+* [Checking Defects in Deep Learning AI Models (Talks at PoC 2019)](./slides/2019-PoC-AI-Model-Security.pdf)
 
